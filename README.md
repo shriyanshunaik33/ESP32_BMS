@@ -94,7 +94,11 @@ research/BMS_Research_Paper.pdf
 # Co-Author
 
 Shriyanshu Naik
+
 Dr. Vitthal Gutte
+
 Hritvi Bhole
+
 Mandar Deshmukh
+
 Fariha Naikwadi
